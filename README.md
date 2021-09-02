@@ -11,8 +11,8 @@ Most technical questions are looking to asses:
 
 
 ## Questions
-1. Create an app to fetch data from a JSON API. Use this data to render on the page. 
-2. Create a typeahead component.
+1. Create an app to fetch data from a JSON API. Use this data to render on the page. Provide ability to paginate the results [Video](https://www.youtube.com/watch?v=gnkrDse9QKc&ab_channel=BenAwad)
+2. Create a typeahead component.[Video](https://www.youtube.com/watch?v=Kb3YtXDvPo0&lc=UgyEVJO8s1Rs6ukx-up4AaABAg.9RJw-E3qUd79RPuN9QYCQ_&ab_channel=CodingwithKevin)
 3. Given a mock, use React to render on the page. Check Sample Mocks section
 4. Create a TO-DO app. 
 5. Infinite scrolling app 
