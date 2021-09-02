@@ -19,6 +19,10 @@ Most technical questions are looking to asses:
 6. Create a form that gathers user's data and sends it to server. 
 7. Create a tic tac toe game.
 8. Create a slideshow type app. The data of slides could be given. It contains an image url, and the title of the slide. Left and Right navigation buttons are needed.
+9. Create a form app that has a different state of UI when a field is selected, has value or is visited. (Uses onFocus, onBlur events)
+10. Create a ticker that increments value ever second.
+11. Create an app that allows user to click a button 5 times, and times them out afterwards.
+12. Create an app that uses debouncing / throttling. 
 
 ## Sample Mocks
 ![image](https://user-images.githubusercontent.com/2525914/131922900-cf52c243-6ef5-4cc9-9b11-d35e0f9cde6d.png)
