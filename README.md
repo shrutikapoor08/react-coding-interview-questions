@@ -1,5 +1,9 @@
 # React Technical Interview Questions
+Know a question that isn't here? Add to the bottom and create a pull request. 
+See a question that you have an answer for? Add a link to a codesandbox demo. 
+Thanks for helping the community!   
 
+## Goals
 Most technical questions are looking to asses: 
 1. Ability to call an API and parse JSON.
 2. Ability to handle promises. 
