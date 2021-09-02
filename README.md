@@ -18,7 +18,7 @@ Most technical questions are looking to asses:
 5. Infinite scrolling app 
 6. Create a form that gathers user's data and sends it to server. 
 7. Create a tic tac toe game.
-8. Create a slideshow type app. 
+8. Create a slideshow type app. The data of slides could be given. It contains an image url, and the title of the slide. Left and Right navigation buttons are needed.
 
 ## Sample Mocks
 ![image](https://user-images.githubusercontent.com/2525914/131922900-cf52c243-6ef5-4cc9-9b11-d35e0f9cde6d.png)
