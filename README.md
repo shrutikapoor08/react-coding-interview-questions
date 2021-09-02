@@ -9,7 +9,7 @@ Most technical questions are looking to asses:
 6. Ability to use hooks such as useState, useEffect.
 7. Ability to pass the right dependency array to useEffect.
 
---- 
+
 ## Questions
 1. Create an app to fetch data from a JSON API. Use this data to render on the page. 
 2. Create a typeahead component.
