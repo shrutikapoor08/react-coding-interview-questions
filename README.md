@@ -4,7 +4,7 @@ See a question that you have an answer for? Add a link to a codesandbox demo.
 Thanks for helping the community!   
 
 ## Goals
-Most technical questions are looking to asses: 
+Most technical questions are looking to assess: 
 1. Ability to call an API and parse JSON.
 2. Ability to handle promises. 
 3. Ability to put data into state and use that to render on the page. 
