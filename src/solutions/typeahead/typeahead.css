@@ -1,4 +1,9 @@
 .typeahead {
+  position: relative;
+  display: block;
+}
+
+.typeahead-input {
   width: 100%;
   padding: 12px 20px;
   margin: 8px 0;
@@ -6,4 +11,33 @@
   border: 1px solid #ccc;
   border-radius: 4px;
   box-sizing: border-box;
+  font-size: 1.7rem;
+}
+
+.typeahead-dropdown {
+  position: absolute;
+  background-color: #f9f9f9;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+  width: 100%;
+  font-size: 1.5rem;
+}
+
+.typeahead-dropdown ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.typeahead-dropdown ul li {
+  padding: 12px 16px;
+  cursor: pointer;
+}
+
+.typeahead-dropdown ul li:hover {
+  background-color: #ddd;
+}
+
+.typeahead-dropdown ul li.selected {
+  background-color: #ccc;
 }
