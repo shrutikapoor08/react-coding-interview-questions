@@ -1,10 +1,10 @@
-import Typeahead from "./solutions/typeahead/typeahead";
+import SlideShow from "./solutions/slideshow/slideshow";
 
 function App() {
   return (
     <div>
       <h1>React Coding Questions</h1>
-      <Typeahead />
+      <SlideShow />
     </div>
   );
 }

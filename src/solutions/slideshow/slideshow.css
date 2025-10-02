@@ -1,0 +1,49 @@
+.slideshow {
+  position: relative;
+  height: 350px;
+}
+.slide {
+  display: flex;
+  overflow: hidden;
+  height: 100%;
+}
+
+.slide img {
+  width: 100%;
+}
+
+.left,
+.right {
+  position: absolute;
+  padding: 15px;
+  top: 50%;
+}
+
+.left {
+  left: 0;
+}
+.right {
+  right: 0;
+}
+
+.indicator-dots {
+  position: absolute;
+  bottom: 1rem;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  gap: 0.5rem;
+}
+
+.dot {
+  width: 0.75rem; /* 12px */
+  height: 0.75rem; /* 12px */
+  border-radius: 9999px;
+  background-color: black;
+  border: none;
+  cursor: pointer;
+}
+
+.dot.active {
+  background-color: #000;
+}
